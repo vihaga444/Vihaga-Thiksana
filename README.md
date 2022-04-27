@@ -23,7 +23,7 @@
 [තාම හදනවා කොල්ලො]
 
 ### Deploy Page
-[♡DEPLOY♡](https://heroku.com/deploy?template=https://github.com/vihaga444/Bennywise.git
+[♡DEPLOY♡](https://heroku.com/deploy?template=https://github.com/vihaga444/Bennywise.git)
 
 
 ###.plugin කියල මේ pugin install කරන්න
