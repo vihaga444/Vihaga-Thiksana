@@ -12,7 +12,7 @@
   <h1>🃏 🇱🇰🔱⚜ʙᴇɴɴʏᴡɪsᴇ™⚜️🔱🇱🇰 🃏</h1>
 </div>
 <p align="center">
-    World best Sinhala/English WhatsApp Button Bot Developer Janith Sadanuwan Enjoy Our Bot
+    බේනිවයිස් යනු පවුද්ගලික Bot වරයේකි කරුනාකර පහත ප්‍රගින බාගත කරන්න 
     <br>
         <a href="https://chat.whatsapp.com/KKeNFrrJlna5kF9caSnBiK">WhatsApp Group</a> |
       
@@ -26,7 +26,7 @@
 [♡DEPLOY♡](https://heroku.com/deploy?template=https://github.com/vihaga444/Bennywise.git)
 
 
-###.plugin කියල මේ pugin install කරන්න
+###.plugin කියල pugin install කරන්න
 
  
 ###EXTERNAL PLUGIN
